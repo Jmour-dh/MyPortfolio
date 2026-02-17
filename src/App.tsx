@@ -1,12 +1,17 @@
-import './App.css'
+import "./App.css";
+import { HeroSection } from "./components/HeroSection";
+import { Navbar } from "./components/Navbar";
+
 
 function App() {
-
   return (
     <>
-     APP
+      <Navbar />
+      <main>
+      <HeroSection />
+      </main>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

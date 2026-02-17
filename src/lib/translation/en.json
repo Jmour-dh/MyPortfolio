@@ -1,0 +1,18 @@
+{
+    "nav": {
+      "about": "About",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "contact": "Contact"
+    },
+  "hero": {
+    "available": "Available for new projects",
+    "role": "Full Stack Developer",
+    "description":
+      "I design and build modern, performant, and accessible web applications. Passionate about clean code and exceptional user experiences.",
+    "cta": "Get in touch",
+    "projects": "View my work",
+    "scrollDown": "Discover"
+  }
+}

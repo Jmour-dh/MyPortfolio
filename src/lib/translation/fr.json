@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "about": "A propos",
+    "projects": "Projets",
+    "skills": "Competences",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "available": "Disponible pour de nouveaux projets",
+    "role": "Expert en Ingénierie du Logiciel",
+    "description":
+      "Étudiant en Master Ingénierie du Logiciel à l'ISCOD, je me spécialise dans le développement d'applications web & mobiles modernes. Mon parcours combine une formation académique solide avec une expérience pratique en entreprise chez Iabako, où j'ai développé des solutions événementielles innovantes.",
+    "cta": "Me contacter",
+    "projects": "Voir mes projets",
+    "scrollDown": "Decouvrir"
+  }
+}
