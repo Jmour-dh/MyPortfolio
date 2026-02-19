@@ -10,9 +10,27 @@
     "available": "Disponible pour de nouveaux projets",
     "role": "Expert en Ingénierie du Logiciel",
     "description":
-      "Étudiant en Master Ingénierie du Logiciel à l'ISCOD, je me spécialise dans le développement d'applications web & mobiles modernes. Mon parcours combine une formation académique solide avec une expérience pratique en entreprise chez Iabako, où j'ai développé des solutions événementielles innovantes.",
+      "Je conçois et developpe des applications web modernes, performantes et accessibles. Passionne par le code propre et les experiences utilisateur exceptionnelles.",
     "cta": "Me contacter",
     "projects": "Voir mes projets",
     "scrollDown": "Decouvrir"
-  }
+  },  "about": {
+    "label": "01 / A propos",
+    "title": "Qui suis-je ?",
+    "role": "Expert en ingénierie du logiciel",
+    "location": "Base a Paris, France",
+    "bio1": "Je suis Dhia Eddine Jmour, étudiant en Master Ingénierie du Logiciel à l'ISCOD, je me spécialise dans le développement d'applications web & mobiles modernes. Mon parcours combine une formation académique solide avec une expérience pratique en entreprise chez Iabako, où j'ai développé des solutions événementielles innovantes.",
+    "bio2": "Mon expertise couvre l'ensemble de la stack technique : du frontend avec React et Next.js, au backend avec Node.js et Python, en passant par les bases de donnees PostgreSQL et MongoDB. Je suis particulierement passionne par l'architecture logicielle et les interfaces utilisateur intuitives.",
+    "floatingBadge": "5+ ans",
+    "floatingBadgeSub": "d'experience",
+    "featureArchitecture": "Architecture",
+    "featureArchitectureDesc": "Systemes scalables et maintenables",
+    "featureCleanCode": "Clean Code",
+    "featureCleanCodeDesc": "Bonnes pratiques et tests",
+    "featurePerformance": "Performance",
+    "featurePerformanceDesc": "Apps rapides et optimisees",
+    "statYears": "Annees d'exp.",
+    "statProjects": "Projets livres",
+    "statClients": "Clients satisfaits"
+  } 
 }

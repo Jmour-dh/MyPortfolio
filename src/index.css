@@ -690,7 +690,7 @@ button {
   position: relative;
   aspect-ratio: 3 / 4;
   overflow: hidden;
-  border-radius: var(--radius-xl);
+  border-radius:  200px;
   box-shadow: var(--shadow-lg);
 }
 
@@ -698,6 +698,7 @@ button {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  border-radius: 200px; 
 }
 
 .about-image-overlay {
@@ -711,7 +712,7 @@ button {
   position: absolute;
   inset: -16px;
   z-index: -1;
-  border-radius: var(--radius-xl);
+  border-radius: 200px;
   background: var(--primary);
   filter: blur(48px);
   opacity: var(--glow-opacity);
