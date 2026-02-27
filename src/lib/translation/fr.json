@@ -9,12 +9,12 @@
   "hero": {
     "available": "Disponible pour de nouveaux projets",
     "role": "Expert en Ingénierie du Logiciel",
-    "description":
-      "Je conçois et developpe des applications web modernes, performantes et accessibles. Passionne par le code propre et les experiences utilisateur exceptionnelles.",
+    "description": "Je conçois et developpe des applications web modernes, performantes et accessibles. Passionne par le code propre et les experiences utilisateur exceptionnelles.",
     "cta": "Me contacter",
     "projects": "Voir mes projets",
     "scrollDown": "Decouvrir"
-  },  "about": {
+  },
+  "about": {
     "label": "01 / A propos",
     "title": "Qui suis-je ?",
     "role": "Expert en ingénierie du logiciel",
@@ -32,5 +32,31 @@
     "statYears": "Annees d'exp.",
     "statProjects": "Projets livres",
     "statClients": "Clients satisfaits"
-  } 
+  },
+  "projects": {
+    "label": "02 / Projets",
+    "title": "Mes Réalisations",
+    "items": [
+      {
+        "title": "PMT",
+        "description": "Découvrez l'Hotel Royal Palace où vous pouvez vous s'inscrire et réserver votre séjour. La galerie vous donnera un aperçu de votre escapade où vous pourrez siroter votre cocktail. Nous vous proposons des produits locaux dans nos bar & restaurant dont vous pouvez consulter la carte."
+      },
+      {
+        "title": "Royal Palace",
+        "description": "Découvrez l'Hotel Royal Palace où vous pouvez vous s'inscrire et réserver votre séjour. La galerie vous donnera un aperçu de votre escapade où vous pourrez siroter votre cocktail. Nous vous proposons des produits locaux dans nos bar & restaurant dont vous pouvez consulter la carte."
+      },
+      {
+        "title": "AutoMobile",
+        "description": "Un réseau social axé sur la musique, les photos et les vidéos. Les utilisateurs peuvent se connecter, partager leur passion musicale et échanger des moments de leur vie à travers des publications visuelles."
+      },
+      {
+        "title": "Connectify",
+        "description": "Un réseau social axé sur la musique, les photos et les vidéos. Les utilisateurs peuvent se connecter, partager leur passion musicale et échanger des moments de leur vie à travers des publications visuelles."
+      },
+      {
+        "title": "DMCHAT",
+        "description": "Dashboard d'analyse en temps reel avec visualisations interactives, alertes configurables et export de rapports."
+      }
+    ]
+  }
 }
