@@ -68,5 +68,40 @@
       "database": "Base de donnees",
       "devops": "Outils & DevOps"
     }
+  },
+  "experience": {
+    "label": "04 / Parcours",
+    "title": "Experience professionnelle",
+    "items": [
+      {
+        "period": "2023 — Present",
+        "role": "Developpeur Full Stack Senior",
+        "company": "TechForward",
+        "description": "Lead technique sur une plateforme SaaS servant plus de 50 000 utilisateurs. Conception de l'architecture microservices, mentorat de developpeurs juniors et mise en place de pipelines CI/CD."
+      },
+      {
+        "period": "2021 — 2023",
+        "role": "Developpeur Full Stack",
+        "company": "Digital Wave Studio",
+        "description": "Developpement d'applications web sur mesure pour des clients B2B. Collaboration etroite avec les equipes design et produit pour livrer des solutions performantes."
+      },
+      {
+        "period": "2020 — 2021",
+        "role": "Developpeur Frontend",
+        "company": "StartupLab Paris",
+        "description": "Creation d'interfaces utilisateur reactives et accessibles pour plusieurs MVPs. Integration d'API tierces et optimisation des performances web."
+      }
+    ]
+  },
+  "contact": {
+    "label": "05 / Contact",
+    "title": "Travaillons ensemble",
+    "description": "Vous avez un projet en tete ou souhaitez simplement echanger ? N'hesitez pas a me contacter. Je suis toujours ouvert a de nouvelles opportunites et collaborations.",
+    "cta": "Envoyer un message",
+    "socialPrompt": "ou retrouvez-moi sur les reseaux"
+  },
+
+  "footer": {
+    "credit": "Concu & developpe par Dhia Eddine Jmour — 2026"
   }
 }
