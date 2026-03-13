@@ -3,25 +3,25 @@ import { useTranslation } from "react-i18next";
 
 const projectMeta = [
   {
-    tags: ["Angular", "Spring boot", "PostgreSQL", "CSS","Docker"],
+    tags: ["Angular", "Spring Boot", "PostgreSQL", "CSS","Docker"],
     github: "https://github.com/Jmour-dh/PMT",
     live: null,
 
   },
   {
-    tags: ["React", "Node.js", "PostgreSQL", "SCSS"],
+    tags: ["React", "Node.js", "Experss","PostgreSQL", "SCSS"],
     github: "https://github.com/Jmour-dh/Royal-Palace",
     live: null,
 
   },
   {
-    tags: ["React", "Node.js", "MongoDB", "CSS"],
+    tags: ["React", "Node.js","Experss", "MongoDB", "CSS"],
     github: "https://github.com/Jmour-dh/Connectify",
     live: null,
 
   },
   {
-    tags: ["React","Node.js","MongoDB", "CSS"],
+    tags: ["React","Node.js","Experss","MongoDB", "CSS"],
     github: "https://github.com/Jmour-dh/Connectify",
     live: null,
 

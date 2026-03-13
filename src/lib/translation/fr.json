@@ -58,5 +58,15 @@
         "description": "Dashboard d'analyse en temps reel avec visualisations interactives, alertes configurables et export de rapports."
       }
     ]
+  },
+  "skills": {
+    "label": "03 / Competences",
+    "title": "Technologies & Outils",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Base de donnees",
+      "devops": "Outils & DevOps"
+    }
   }
 }
