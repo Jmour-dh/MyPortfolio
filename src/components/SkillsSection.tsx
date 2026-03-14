@@ -15,7 +15,7 @@ export const SkillsSection: React.FC = () => {
     {
       title: t("skills.categories.frontend"),
       icon: Monitor,
-      skills: ["React", "React native", "Angular", "TypeScript", "SASS", "HTML/CSS"],
+      skills: ["React", "React native", "Angular", "TypeScript", "SCSS", "HTML/CSS"],
     },
     {
       title: t("skills.categories.backend"),

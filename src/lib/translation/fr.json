@@ -59,16 +59,25 @@
       }
     ]
   },
-  "skills": {
+ "skills": {
     "label": "03 / Competences",
     "title": "Technologies & Outils",
     "categories": {
       "frontend": "Frontend",
       "backend": "Backend",
       "database": "Base de donnees",
-      "devops": "Outils & DevOps"
+      "devops": "Outils & DevOps",
+      "softSkills": "Competences humaines"
+    },
+    "softSkills": {
+      "teamwork": "Travail d'équipe",
+      "autonomy": "Autonome",
+      "organization": "Organisation",
+      "projectManagement": "Pilotage de projet",
+      "adaptability": "Adaptation en environnement interculturel",
+      "communication": "Communication technique"
     }
-  },
+ },
   "experience": {
     "label": "04 / Parcours",
     "title": "Experience professionnelle",
